@@ -22,7 +22,7 @@ const Navigate = useNavigate()
       </div>
 
       <div className="nav-actions">
-        <button className="nav-btn login">Log In</button>
+            <button className="nav-btn login">Log In</button>
         <button className="nav-btn signup">Sign Up</button>
       </div>
     </section>

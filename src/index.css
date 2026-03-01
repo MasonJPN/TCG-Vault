@@ -222,6 +222,13 @@ body {
 
 .promo-btn{
   color:white;
+  font-size: large;
+   background-color: #3b82f6;
+  
+  
+}
+.promo-btn:hover{
+background-color: #0e4db3;
 }
 .promo-text p {
   font-size: 16px;
