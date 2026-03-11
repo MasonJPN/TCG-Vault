@@ -284,6 +284,20 @@ background-color: #0e4db3;
 
 /* SET LIST / GRID */
 
+
+.set-list-wrapper{
+ padding-bottom: 60px;
+}
+
+
+
+
+
+
+
+
+
+
 .set-list-heading {
   position: relative;
   display: flex;
@@ -346,6 +360,48 @@ background-color: #0e4db3;
   color: #aaa;
   margin: 0;
 }
+
+
+.SL-NXTPREV-BTNS{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:30px;
+  padding-bottom: px;
+  
+  
+}
+
+.SL-page-btn {
+  background-color: #f9f9f9;
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.SL-page-btn:hover {
+  background-color: #a9a4a4;
+}
+
+.SL-page-btn:disabled {
+  background-color: #999;
+  
+}
+
+.SL-page-num{
+  color:white;
+  font-size: 23px;
+}
+
+
+
+.add-card-btn.added {
+  background-color: #22c55e;
+}
+
+
 
 /*  CARD ACTION BUTTONS */
 
@@ -569,6 +625,32 @@ background-color: #0e4db3;
 .login-container button[type="submit"]:active {
   transform: translateY(0);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*  RESPONSIVE BREAKPOINTS */
 
