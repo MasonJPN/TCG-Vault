@@ -2,7 +2,7 @@
  
 A Pokemon Trading Card Game collection tracker for collectors who want to browse real card sets, track what they own, and see their collection grow — all in one place.
  
-**Live Site:** [Link to project]
+**Live Site:** [https://tcg-vault.netlify.app/]
  
 ---
  
