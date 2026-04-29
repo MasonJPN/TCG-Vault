@@ -28,7 +28,7 @@ const {collection, removeCard} = useContext(CardContext)
 
                />
               <h4>{card.name}</h4>
-              <p>#{card.number}</p>
+              
 
               <button className="remove-card-btn" onClick={() => removeCard(card.id)}>
                 x

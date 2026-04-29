@@ -43,6 +43,7 @@ export default function SetList() {
       setFilteredCards(cards)
       return
     }
+    
     const filtered = cards.filter(card => 
       card.name?.toLowerCase().includes(searchTerm.toLowerCase()) ||
       card.localId?.includes(searchTerm)

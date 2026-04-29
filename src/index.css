@@ -12,13 +12,6 @@
 }
 
 
-
-
-
-
-
-
-
 body {
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
@@ -635,7 +628,7 @@ background-color: #927307;
   text-align: center;
 }
 
-/* Social buttons */
+
 .login-container .google,
 .login-container .apple {
   padding: 0.75rem;
@@ -655,7 +648,7 @@ background-color: #927307;
   border-color: #ccc;
 }
 
-/* Divider */
+
 .login-container p {
   text-align: center;
   color: #999;
@@ -681,7 +674,7 @@ background-color: #927307;
   right: 0;
 }
 
-/* Input fields */
+
 .login-container input {
   width: 100%;
   padding: 0.75rem;
