@@ -23,7 +23,7 @@ const navigate = useNavigate()
 
         <p>
           Keep track of your Pokémon card collection, with the quickest and most
-          up to date card tracking prices. We constantly update and add the
+          up to date card tracking service. We constantly update and add the
           latest releases to our database. Create an account and start
           collecting today!
         </p>
